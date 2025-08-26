@@ -29,7 +29,7 @@ This project performs sentiment analysis on a subset of Amazon Kindle Store book
 3. **Feature Extraction**
    - Bag of Words (BoW)
    - TF-IDF
-   - (Word2Vec placeholder)
+   - Word2Vec
 
 4. **Model Training**
    - Gaussian Naive Bayes classifier
